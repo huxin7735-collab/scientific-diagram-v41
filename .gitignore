@@ -1,0 +1,9 @@
+# 第三方依赖（不提交 GitHub；本地 Visio/VDX 导出时才需 npm install）
+node_modules/
+
+# 日志
+*.log
+
+# 操作系统 / 编辑器
+.DS_Store
+Thumbs.db
